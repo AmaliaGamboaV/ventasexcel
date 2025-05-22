@@ -14,5 +14,3 @@
 
 ## Resultado de ventas abril
 
-<img width="1051" alt="image" src="https://github.com/user-attachments/assets/f14d8240-13d6-41c2-a028-596729a820e9" />
-
